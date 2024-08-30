@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.22631.4037]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\Tutorials\01_Python_Django\django_practice_code\class_one\myproject_one>pipenv shell
+Launching subshell in virtual environment...
+Microsoft Windows [Version 10.0.22631.4037]
+(c) Microsoft Corporation. All rights reserved.
+
+(class_one-_stK4NGB) E:\Tutorials\01_Python_Django\django_practice_code\class_one>cd myproject_one
+
+(class_one-_stK4NGB) E:\Tutorials\01_Python_Django\django_practice_code\class_one\myproject_one>git checkout -b python_module_13_one_tasks
+Switched to a new branch 'python_module_13_one_tasks'
+
+(class_one-_stK4NGB) E:\Tutorials\01_Python_Django\django_practice_code\class_one\myproject_one>code ./
+
+(class_one-_stK4NGB) E:\Tutorials\01_Python_Django\django_practice_code\class_one\myproject_one>python manage.py startapp todo_app
+
+(class_one-_stK4NGB) E:\Tutorials\01_Python_Django\django_practice_code\class_one\myproject_one>python manage.py makemigrations todo_app
