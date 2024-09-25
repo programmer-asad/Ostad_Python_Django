@@ -1,0 +1,47 @@
+[
+    {
+        "model": "todo_app.task",
+        "pk": 1,
+        "fields": {
+            "title": "Do laundry",
+            "description": "clean, wash the cloths ect",
+            "completed": false,
+            "created_at": "2024-09-25 07:10:10"
+        }
+    },
+
+    {
+        "model": "todo_app.task",
+        "pk": 2,
+        "fields": {
+            "title": "Go for morning walk",
+            "description": "Morning walk is very effective exercise for health",
+            "completed": true,
+            "created_at": "2024-09-25 07:15:10"
+        }
+    },
+
+    {
+        "model": "todo_app.task",
+        "pk": 3,
+        "fields": {
+            "title": "Learning English",
+            "description": "English is international language. Now everybody should learn english",
+            "completed": false,
+            "created_at": "2024-09-25 07:10:10"
+        }
+    },
+
+    {
+        "model": "todo_app.task",
+        "pk": 4,
+        "fields": {
+            "title": "Rainy season",
+            "description": "There are six seasons in Bangladesh. Rainy season is one of them",
+            "completed": true,
+            "created_at": "2024-09-25 07:15:10"
+        }
+    }
+
+    
+]
